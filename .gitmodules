@@ -1,0 +1,3 @@
+[submodule "charisma"]
+	path = charisma
+	url = https://github.com/simomo/charisma.git
