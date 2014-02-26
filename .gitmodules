@@ -1,3 +1,6 @@
 [submodule "charisma"]
 	path = client/lib/charisma
 	url = https://github.com/simomo/charisma.git
+[submodule "echarts"]
+	path = client/lib/echarts
+	url = https://github.com/simomo/echarts.git
